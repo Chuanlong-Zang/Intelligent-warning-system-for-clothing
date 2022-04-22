@@ -3,7 +3,7 @@
 ### Description
 Under the scope of the smart home, this project aims to build an intelligent warning system for clothing. The system is able to receive and update the actual and future weather information, mess the status (dry or wet) of clothes using the sensor, analyze the condition and send the email to the user. Furthermore, this system has an advanced mode so that the user can adjust the settings based on their favor.
 
-Hardware and software which are needed in this project see below.
+Hardware and software which are needed in this project see below.  
 
 #### Hardware
 
@@ -14,7 +14,7 @@ In order to use this system properly, you will need:
 
 #### Software
 
-Node-Red is used in this project, so you need to set up node-red on your both raspberry pi properly.
+Node-Red is used in this project, so you need to set up node-red on your both raspberry pi properly. Docker can also be used, just set up your image properly and make sure you can run Node-Red in your container.
 
 ### Usage
 Basically you only need to import the two json files in this repo into your node-red front-end. You may need to set up your own password for weather information, etc.
