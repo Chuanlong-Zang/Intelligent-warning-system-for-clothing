@@ -8,7 +8,7 @@ Hardware and software which are needed in this project see below.
 #### Hardware
 
 In order to use this system properly, you will need:
-- two Raspberry Pi (I use 3B+ and 3B, but 4 should also works)
+- two Raspberry Pi (I use 3B+ and 3B, but 4 should also work)
 - two DHT11 sensors
 - Cabal and Breadboard
 
